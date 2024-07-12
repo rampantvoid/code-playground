@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1713535845209,
+      "tag": "0000_gigantic_doorman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1713552266381,
+      "tag": "0001_bent_dragon_lord",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1714294118837,
+      "tag": "0002_silky_living_lightning",
+      "breakpoints": true
+    }
+  ]
+}
